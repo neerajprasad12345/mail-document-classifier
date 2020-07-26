@@ -1,2 +1,7 @@
 credentials.json
 token.pickle
+.idea
+resources/credentials.json
+resources/token.pickle
+__pycache__
+.DS_Store
