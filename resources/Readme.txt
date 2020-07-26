@@ -1,0 +1,1 @@
+This is a template for the resources directory. Store all assets here.
